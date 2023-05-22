@@ -1,0 +1,95 @@
+body
+{
+  text-align: center;
+  margin: auto;
+}
+
+
+h3 {
+  background-image: linear-gradient(to bottom, rebeccapurple, steelblue, turquoise);
+  color: black;
+  background-clip: text;
+  -webkit-background-clip: text;
+
+
+  -webkit-text-fill-color: transparent;
+}
+
+h3 {
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 1.1;
+  font-size: 25px !important;
+
+}
+.copy-right-footer{
+  position:fixed;
+  bottom:0;
+  width:20%;
+  height:22px;
+  text-align:center;
+  border-radius: 20px;
+  font-size:17px;
+  background-image: linear-gradient(to right top, #e3242b, orange, #ed3837,#fb9922,#D21404);
+  font-family:'DynaPuff', cursive;
+}
+h3, button {
+  background-image: linear-gradient(to bottom, #e3242b, orange, #ed3837,#fb9922,#D21404);
+  color: black;
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  -webkit-text-fill-color: transparent;
+}
+
+h3, button {
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 1.1;
+  border: 0;
+}
+h3{
+  
+  background-image: linear-gradient(to bottom, #2bbcf1, #0eafeb, #00abf9,#0093d6,#42c3ff);
+  color: black;
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  -webkit-text-fill-color: transparent;
+
+  font-size: 55px !important;
+  font-family: 'Tangerine', cursive;
+}
+.copy-right-footer:hover{
+  background-image:linear-gradient(to right top, blue,darkturquoise, blue, lightblue, darkturquoise);
+  color:white;
+}
+canvas
+{
+  border-radius: 20px;
+}
+canvas:hover{
+  border-radius: 10px;
+  box-shadow: 0 15px 3rem rgb(2, 2, 2);
+}
+button:hover
+{
+  background-image: linear-gradient(to bottom, #6cd5a1, lightgreen,#43b66a,#71d967,#69d77f, #34c551);
+  color: black;
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  -webkit-text-fill-color: transparent;
+
+  font-size:65px;
+  font-family: 'Tangerine', cursive;
+}
+h3:hover
+{
+    background-image: linear-gradient(to bottom, #9279ba, #b9a5e2, #9279ba,#bca4e3,#745e96);
+color: black;
+background-clip: text;
+-webkit-background-clip: text;
+
+-webkit-text-fill-color: transparent;
+}
